@@ -20,7 +20,7 @@ Engines that are being developed generally by a single individual or at most a h
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
-|![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine ||
+|![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://camo.githubusercontent.com/a887115583ad60b1b8c5421078b374d0c02c43e8651835cda2e7f792d8f50aff/68747470733a2f2f747572616e737a6b696a2e66696c65732e776f726470726573732e636f6d2f323032302f30382f767867695f73706f6e7a615f736d616c6c2e706e67" width="300"/>|
 || Lumix Engine | https://github.com/nem0/LumixEngine ||
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine ||
 |![koala](https://github.com/redorav/public_source_engines/blob/master/logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
