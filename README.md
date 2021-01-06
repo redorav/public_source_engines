@@ -10,7 +10,6 @@ As a game developer, I find myself often wondering how other people do things an
 |![godot](https://github.com/redorav/public_source_engines/blob/master/logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |
 |![torque](https://github.com/redorav/public_source_engines/blob/master/logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D |
 |![ogre](https://github.com/redorav/public_source_engines/blob/master/logos/ogre_64px.png)| Ogre 3D Next | https://github.com/OGRECave/ogre-next |
-
 |![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine |
 || Lumix Engine | https://github.com/nem0/LumixEngine |
 || Diligent Engine | https://github.com/DiligentGraphics/DiligentEngine |
