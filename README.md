@@ -16,7 +16,7 @@ As a game developer, I find myself often wondering how other people do things an
 || Hazel Engine | https://github.com/TheCherno/Hazel |
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |
 || Koala Engine | https://github.com/phisko/kengine |
-|| Hazel | https://github.com/TheCherno/Hazel |
+|![hazel](https://github.com/redorav/public_source_engines/blob/master/logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |
 || Spartan Engine | https://github.com/PanosK92/SpartanEngine |
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine |
 || Lumos Engine | https://github.com/jmorton06/Lumos |
