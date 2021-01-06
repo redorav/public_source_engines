@@ -19,7 +19,7 @@ Engines that are being developed by teams of individuals, generally are well est
 Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
 
 || Engine | Source | Screenshot |
-| --- | :---: | --- |
+| --- | :---: | --- | --- |
 |![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine ||
 || Lumix Engine | https://github.com/nem0/LumixEngine ||
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine ||
