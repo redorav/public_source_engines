@@ -13,6 +13,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![godot](https://github.com/redorav/public_source_engines/blob/master/logos/godot_64px.png)| Godot | https://github.com/godotengine/godot ||
 |![torque](https://github.com/redorav/public_source_engines/blob/master/logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D ||
 |![flax](https://github.com/redorav/public_source_engines/blob/master/logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
+|![panda3d](https://github.com/redorav/public_source_engines/blob/master/logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
 |![armory3d](https://github.com/redorav/public_source_engines/blob/master/logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
 
 ## Solo Engines
