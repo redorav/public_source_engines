@@ -13,7 +13,6 @@ As a game developer, I find myself often wondering how other people do things an
 |![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine |
 || Lumix Engine | https://github.com/nem0/LumixEngine |
 || Diligent Engine | https://github.com/DiligentGraphics/DiligentEngine |
-|| Hazel Engine | https://github.com/TheCherno/Hazel |
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |
 || Koala Engine | https://github.com/phisko/kengine |
 |![hazel](https://github.com/redorav/public_source_engines/blob/master/logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |
