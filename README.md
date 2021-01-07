@@ -37,4 +37,5 @@ These are only the graphics part of an engine but mature enough and well develop
 | --- | :---: | --- |
 |![diligent](https://github.com/redorav/public_source_engines/blob/master/logos/diligent_64px.png)| Diligent Engine | https://github.com/DiligentGraphics/DiligentEngine |
 |![bgfx](https://github.com/redorav/public_source_engines/blob/master/logos/bgfx_64px.png)| bgfx| https://github.com/bkaradzic/bgfx |
-|![ogre](https://github.com/redorav/public_source_engines/blob/master/logos/ogre_64px.png)| Ogre 3D Next | https://github.com/OGRECave/ogre-next |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
+|![ogre](https://github.com/redorav/public_source_engines/blob/master/logos/ogre_64px.png)| Ogre 3D Next | https://github.com/OGRECave/ogre-next |
+|![methane](https://github.com/redorav/public_source_engines/blob/master/logos/methane_64px.png)| Methane Kit | https://github.com/egorodet/MethaneKit |
