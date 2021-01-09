@@ -1,11 +1,11 @@
-# GAME ENGINES WITH SOURCE: Learning from the best
+# Game Engines with Source: Learning from the best
 -----------------------------------
 
-As a game developer, I find myself wondering often how other people do things and what solutions they have developed to some problem. Aside from the big boys I have noticed lately that a lot of people are working on their own engines and I've found myself downloading repositories, compiling, giving them a quick spin, etc and just tinkering and marveling at the passion they've been putting into their projects. This is a non-exhaustive list of game engine projects whose source code you can freely inspect, compile and learn from. 
+As a game developer, I'm always intrigued by how other people do things and what solutions have been developed to some problem. As well as the big ones, many smaller engines are being worked on and I find myself downloading repositories, compiling, giving them a quick spin, tinkering and marveling at what's available. This is a non-exhaustive list of game engines whose source code you can freely inspect, compile, run and learn from.
 
-NB: When I say game engine I am referring to a conglomerate of technologies that generally has an editor (however complex), a scene description, input/output, etc. If the scope is more limited then we would be talking about a rendering engine, or a physics engine.
+NB: When I say game engine I am referring to a conglomerate of technologies that generally has an editor, a scene description, input/output, etc. If the scope is more limited we would be talking about a rendering or a physics engine.
 
-NB2: Notice how I say public source, and not open source or free source or anything that would suggest that you can freely make use of the code. This is because every entry in the list has its own licensing terms, commercial options and conditions that you need to abide by.
+NB2: Notice I say public source, and not open or free source or anything that suggests that you can freely make use of the code. Every entry in the list has its own licensing terms, commercial options and/or conditions that you need to abide by.
 
 ## Team Engines
 Engines that are being developed by teams of individuals, generally are well established and have commercial products behind them.
