@@ -1,7 +1,7 @@
 # Game Engines with Source: Learning from the best
 -----------------------------------
 
-As a game developer, I'm always intrigued by how other people do things and what solutions have been developed to some problem. As well as the big ones, many smaller engines are being worked on and I find myself downloading repositories, compiling, giving them a quick spin, tinkering and marveling at what's available. This is a non-exhaustive list of game engines whose source code you can freely inspect, compile, run and learn from.
+As a game developer, I'm always intrigued by how other people do things and what solutions have been developed to some problem. As well as the big ones, many smaller engines are being worked on and I find myself downloading repositories, compiling, tinkering and marveling at what's available. This is a non-exhaustive list of game engines whose source code you can freely inspect, compile, run and learn from.
 
 NB: When I say game engine I am referring to a conglomerate of technologies that generally has an editor, a scene description, input/output, etc. If the scope is more limited we would be talking about a rendering or a physics engine.
 
