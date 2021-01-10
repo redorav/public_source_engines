@@ -34,7 +34,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![spartan](https://github.com/redorav/public_source_engines/blob/master/logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/Data/readme_screen_1.1.jpg" width="300"/>|
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine |<img src="https://camo.githubusercontent.com/cc5fcda8c624ccf1eda7f881f03ac23524bb92f582115dd82d816f2a8a2ebb5d/687474703a2f2f6265617269736873756e2e7468616c617373612e666572616c686f7374696e672e636f6d2f42616e73686565456469746f722e706e67" width="300"/>|
 || Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/master/Resources/Screenshot0920.png" width="300"/>|
-|![pax](https://github.com/pmbittner/PaxEngine3/blob/master/res/icon/PaxEngine3/PaxEngine3_128.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
+|![paxengine](https://github.com/redorav/public_source_engines/blob/master/logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
 ||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 
 ## Rendering Engines
@@ -46,4 +46,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![bgfx](https://github.com/redorav/public_source_engines/blob/master/logos/bgfx_64px.png)| bgfx| https://github.com/bkaradzic/bgfx |
 |![ogre](https://github.com/redorav/public_source_engines/blob/master/logos/ogre_64px.png)| Ogre 3D Next | https://github.com/OGRECave/ogre-next |
 |![methane](https://github.com/redorav/public_source_engines/blob/master/logos/methane_64px.png)| Methane Kit | https://github.com/egorodet/MethaneKit |
-|| Magnum | https://github.com/mosra/magnum |
+|![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
