@@ -20,6 +20,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![panda3d](https://github.com/redorav/public_source_engines/blob/master/logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
 |![armory3d](https://github.com/redorav/public_source_engines/blob/master/logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
 |![neoaxis](https://github.com/redorav/public_source_engines/blob/master/logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
+|![urho3d](https://github.com/redorav/public_source_engines/blob/master/logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://a.fsdn.com/con/app/proj/urho3d/screenshots/unity_2_urho3d.jpg" width="300"/>|
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
@@ -36,6 +37,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/master/Resources/Screenshot0920.png" width="300"/>|
 |![paxengine](https://github.com/redorav/public_source_engines/blob/master/logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
 ||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
+|![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
