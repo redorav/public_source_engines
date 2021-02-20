@@ -38,6 +38,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![paxengine](https://github.com/redorav/public_source_engines/blob/master/logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
 ||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 |![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
+||PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
