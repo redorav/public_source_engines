@@ -21,6 +21,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![armory3d](https://github.com/redorav/public_source_engines/blob/master/logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
 |![neoaxis](https://github.com/redorav/public_source_engines/blob/master/logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
 |![urho3d](https://github.com/redorav/public_source_engines/blob/master/logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://a.fsdn.com/con/app/proj/urho3d/screenshots/unity_2_urho3d.jpg" width="300"/>|
+||PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
@@ -39,7 +40,6 @@ Engines that are being developed generally by a single individual or at most a h
 ||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 |![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 ||PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
-||PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
