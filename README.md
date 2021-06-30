@@ -21,7 +21,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![armory3d](https://github.com/redorav/public_source_engines/blob/master/logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
 |![neoaxis](https://github.com/redorav/public_source_engines/blob/master/logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
 |![urho3d](https://github.com/redorav/public_source_engines/blob/master/logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://a.fsdn.com/con/app/proj/urho3d/screenshots/unity_2_urho3d.jpg" width="300"/>|
-||PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
+|![playcanvas](https://github.com/redorav/public_source_engines/blob/master/logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
