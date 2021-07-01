@@ -37,9 +37,10 @@ Engines that are being developed generally by a single individual or at most a h
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine |<img src="https://camo.githubusercontent.com/cc5fcda8c624ccf1eda7f881f03ac23524bb92f582115dd82d816f2a8a2ebb5d/687474703a2f2f6265617269736873756e2e7468616c617373612e666572616c686f7374696e672e636f6d2f42616e73686565456469746f722e706e67" width="300"/>|
 || Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/master/Resources/Screenshot0920.png" width="300"/>|
 |![paxengine](https://github.com/redorav/public_source_engines/blob/master/logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
-||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
+|| Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 |![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
-||PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
+|| PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
+|| VQE | https://github.com/vilbeyli/VQE ||
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
