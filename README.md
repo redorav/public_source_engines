@@ -24,6 +24,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![playcanvas](https://github.com/redorav/public_source_engines/blob/master/logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 |![lumberyard](https://github.com/redorav/public_source_engines/blob/master/logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](https://github.com/redorav/public_source_engines/blob/master/logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
+|![nCine](https://github.com/redorav/public_source_engines/blob/master/logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://hmn-assets-2.ams3.digitaloceanspaces.com/dccd07bc-be61-4213-b410-bc5f7471babc/SpookyGhost_r58.png" width="300"/> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
