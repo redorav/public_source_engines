@@ -44,6 +44,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || VQE | https://github.com/vilbeyli/VQE ||
+|![rbfx](https://github.com/redorav/public_source_engines/blob/master/logos/rbfx_64px.png)| RBFX | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
