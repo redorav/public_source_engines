@@ -56,3 +56,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![ogre](https://github.com/redorav/public_source_engines/blob/master/logos/ogre_64px.png)| Ogre 3D Next | https://github.com/OGRECave/ogre-next |
 |![methane](https://github.com/redorav/public_source_engines/blob/master/logos/methane_64px.png)| Methane Kit | https://github.com/egorodet/MethaneKit |
 |![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
+|![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
