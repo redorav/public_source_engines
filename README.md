@@ -24,10 +24,9 @@ Engines that are being developed by teams of individuals, generally are well est
 |![playcanvas](https://github.com/redorav/public_source_engines/blob/master/logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 |![lumberyard](https://github.com/redorav/public_source_engines/blob/master/logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](https://github.com/redorav/public_source_engines/blob/master/logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
-|![nCine](https://github.com/redorav/public_source_engines/blob/master/logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
 
 ## Solo Engines
-Engines that are being developed generally by a single individual or at most a handful, as either experimental or toy pieces of tech.
+Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
@@ -45,6 +44,7 @@ Engines that are being developed generally by a single individual or at most a h
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || VQE | https://github.com/vilbeyli/VQE ||
 |![rbfx](https://github.com/redorav/public_source_engines/blob/master/logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
+|![nCine](https://github.com/redorav/public_source_engines/blob/master/logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
