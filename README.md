@@ -57,3 +57,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![methane](https://github.com/redorav/public_source_engines/blob/master/logos/methane_64px.png)| Methane Kit | https://github.com/egorodet/MethaneKit |
 |![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
+|| Veldrid | https://github.com/mellinoe/veldrid |
