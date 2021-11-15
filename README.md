@@ -46,6 +46,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![rbfx](https://github.com/redorav/public_source_engines/blob/master/logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
 |![nCine](https://github.com/redorav/public_source_engines/blob/master/logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
+|| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
