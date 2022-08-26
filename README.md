@@ -52,9 +52,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
-
-
-
+|| LiteFX | https://github.com/crud89/LiteFX | |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
