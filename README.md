@@ -41,6 +41,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![lina](https://github.com/redorav/public_source_engines/blob/master/logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
 |![koala](https://github.com/redorav/public_source_engines/blob/master/logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![vq](https://github.com/redorav/public_source_engines/blob/master/logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
+|![et](https://github.com/redorav/public_source_engines/blob/master/logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine |<img src="https://camo.githubusercontent.com/cc5fcda8c624ccf1eda7f881f03ac23524bb92f582115dd82d816f2a8a2ebb5d/687474703a2f2f6265617269736873756e2e7468616c617373612e666572616c686f7374696e672e636f6d2f42616e73686565456469746f722e706e67" width="300"/>|
@@ -48,7 +49,6 @@ Engines that are being developed generally by a single individual or at most a h
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
-|| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 || Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
