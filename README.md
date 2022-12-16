@@ -53,6 +53,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
 || LiteFX | https://github.com/crud89/LiteFX | |
+|![lina](https://github.com/redorav/public_source_engines/blob/master/logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
