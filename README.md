@@ -12,37 +12,38 @@ Engines that are being developed by teams of individuals, generally are well est
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
-|![ue4](https://github.com/redorav/public_source_engines/blob/master/logos/ue4_64px.png)| Unreal Engine 4 | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
-|![cryengine](https://github.com/redorav/public_source_engines/blob/master/logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
-|![godot](https://github.com/redorav/public_source_engines/blob/master/logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
-|![torque](https://github.com/redorav/public_source_engines/blob/master/logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D |<img src="http://static.garagegames.com/static/images/education/torque3d.png" width="300"/>|
-|![flax](https://github.com/redorav/public_source_engines/blob/master/logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
-|![panda3d](https://github.com/redorav/public_source_engines/blob/master/logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
-|![armory3d](https://github.com/redorav/public_source_engines/blob/master/logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
-|![neoaxis](https://github.com/redorav/public_source_engines/blob/master/logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
-|![urho3d](https://github.com/redorav/public_source_engines/blob/master/logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://a.fsdn.com/con/app/proj/urho3d/screenshots/unity_2_urho3d.jpg" width="300"/>|
-|![playcanvas](https://github.com/redorav/public_source_engines/blob/master/logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
-|![lumberyard](https://github.com/redorav/public_source_engines/blob/master/logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
-|![o3de](https://github.com/redorav/public_source_engines/blob/master/logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
-|![ez](https://github.com/redorav/public_source_engines/blob/master/logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/fbafc5af4e68ce8909c1ed1dc998a799d61c67d3b017f11e25e8488a4f41803b/68747470733a2f2f657a656e67696e652e6e65742f70616765732f646f63732f656469746f722f6d656469612f657a456469746f722e6a7067" width="300" /> |
+|![ue4](logos/ue4_64px.png)| Unreal Engine 4 | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
+|![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
+|![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
+|![torque](logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D |<img src="http://static.garagegames.com/static/images/education/torque3d.png" width="300"/>|
+|![flax](logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
+|![panda3d](logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
+|![armory3d](logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
+|![neoaxis](logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
+|![urho3d](logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://a.fsdn.com/con/app/proj/urho3d/screenshots/unity_2_urho3d.jpg" width="300"/>|
+|![playcanvas](logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
+|![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
+|![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
+|![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/fbafc5af4e68ce8909c1ed1dc998a799d61c67d3b017f11e25e8488a4f41803b/68747470733a2f2f657a656e67696e652e6e65742f70616765732f646f63732f656469746f722f6d656469612f657a456469746f722e6a7067" width="300" /> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
-|![wicked](https://github.com/redorav/public_source_engines/blob/master/logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://camo.githubusercontent.com/a887115583ad60b1b8c5421078b374d0c02c43e8651835cda2e7f792d8f50aff/68747470733a2f2f747572616e737a6b696a2e66696c65732e776f726470726573732e636f6d2f323032302f30382f767867695f73706f6e7a615f736d616c6c2e706e67" width="300"/>|
-|![hazel](https://github.com/redorav/public_source_engines/blob/master/logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/res/HazelBG.jpg" width="300"/>|
-|![spartan](https://github.com/redorav/public_source_engines/blob/master/logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/assets/github/readme_1.5.jpg" width="300"/>|
-|![paxengine](https://github.com/redorav/public_source_engines/blob/master/logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
-|![acid](https://github.com/redorav/public_source_engines/blob/master/logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
-|![rbfx](https://github.com/redorav/public_source_engines/blob/master/logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
-|![nCine](https://github.com/redorav/public_source_engines/blob/master/logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
-|![lina](https://github.com/redorav/public_source_engines/blob/master/logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
-|![koala](https://github.com/redorav/public_source_engines/blob/master/logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
-|![vq](https://github.com/redorav/public_source_engines/blob/master/logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
-|![et](https://github.com/redorav/public_source_engines/blob/master/logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
-|![overload](https://github.com/redorav/public_source_engines/blob/master/logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
+|![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://camo.githubusercontent.com/a887115583ad60b1b8c5421078b374d0c02c43e8651835cda2e7f792d8f50aff/68747470733a2f2f747572616e737a6b696a2e66696c65732e776f726470726573732e636f6d2f323032302f30382f767867695f73706f6e7a615f736d616c6c2e706e67" width="300"/>|
+|![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/res/HazelBG.jpg" width="300"/>|
+|![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/assets/github/readme_1.5.jpg" width="300"/>|
+|![paxengine](logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/blob/master/res/screenshots/3d.PNG" width="300"/>|
+|![acid](logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
+|![rbfx](logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
+|![nCine](logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
+|![lina](logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
+|![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
+|![vq](logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
+|![et](logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
+|![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
+|![halley](logos/halley_64px.png)| Halley | https://github.com/amzeratul/halley ||
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine |<img src="https://camo.githubusercontent.com/cc5fcda8c624ccf1eda7f881f03ac23524bb92f582115dd82d816f2a8a2ebb5d/687474703a2f2f6265617269736873756e2e7468616c617373612e666572616c686f7374696e672e636f6d2f42616e73686565456469746f722e706e67" width="300"/>|
