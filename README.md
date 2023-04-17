@@ -39,7 +39,6 @@ Engines that are being developed generally by a single individual or at most a h
 |![rbfx](logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
 |![nCine](logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
 |![lina](logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
-|![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![vq](logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
 |![et](logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 |![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
@@ -52,9 +51,11 @@ Engines that are being developed generally by a single individual or at most a h
 || Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
-|| LiteFX | https://github.com/crud89/LiteFX | |
+|![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
+|![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
+|| LiteFX | https://github.com/crud89/LiteFX | |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
