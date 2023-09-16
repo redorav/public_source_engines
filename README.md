@@ -25,7 +25,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
 |![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/fbafc5af4e68ce8909c1ed1dc998a799d61c67d3b017f11e25e8488a4f41803b/68747470733a2f2f657a656e67696e652e6e65742f70616765732f646f63732f656469746f722f6d656469612f657a456469746f722e6a7067" width="300" /> |
-|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | |
+|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://forum.defold.com/uploads/default/optimized/3X/5/b/5b6de6ac4a4445278bb372a5873e6f5da3976e1a_2_690x373.jpeg" width="300" /> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
