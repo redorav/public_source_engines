@@ -25,6 +25,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
 |![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/fbafc5af4e68ce8909c1ed1dc998a799d61c67d3b017f11e25e8488a4f41803b/68747470733a2f2f657a656e67696e652e6e65742f70616765732f646f63732f656469746f722f6d656469612f657a456469746f722e6a7067" width="300" /> |
+|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
@@ -58,6 +59,8 @@ Engines that are being developed generally by a single individual or at most a h
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 || LiteFX | https://github.com/crud89/LiteFX | |
 |![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | |
+|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | |
+|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
