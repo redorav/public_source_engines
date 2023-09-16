@@ -55,7 +55,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
-|| AdriaDX12 | [https://github.com/avilapa/vxr](https://github.com/mateeeeeee/Adria-DX12) | <img src="https://github.com/mateeeeeee/Adria-DX12/raw/master/Screenshots/pathtracing1.png" width="300"/> |
+|| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://github.com/mateeeeeee/Adria-DX12/raw/master/Screenshots/pathtracing1.png" width="300"/> |
 |![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
