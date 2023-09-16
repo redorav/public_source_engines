@@ -43,6 +43,9 @@ Engines that are being developed generally by a single individual or at most a h
 |![vq](logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
 |![et](logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 |![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
+|![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | <img src="https://user-images.githubusercontent.com/12881812/210655312-1e0d25a1-e4bf-49d9-943b-f88f932f7e08.png" width="300"/> |
+|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
+|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/0130a9cb36257cd10f6958683a36f52a89c3bf43ac247556d8873cd01aa2df14/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
 || Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/master/Resources/Screenshot0920.png" width="300"/>|
@@ -58,9 +61,6 @@ Engines that are being developed generally by a single individual or at most a h
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 || LiteFX | https://github.com/crud89/LiteFX | |
-|![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | |
-|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
-|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/0130a9cb36257cd10f6958683a36f52a89c3bf43ac247556d8873cd01aa2df14/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
