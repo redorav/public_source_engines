@@ -34,7 +34,7 @@ Engines that are being developed generally by a single individual or at most a h
 | --- | :---: | --- | --- |
 |![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://camo.githubusercontent.com/a887115583ad60b1b8c5421078b374d0c02c43e8651835cda2e7f792d8f50aff/68747470733a2f2f747572616e737a6b696a2e66696c65732e776f726470726573732e636f6d2f323032302f30382f767867695f73706f6e7a615f736d616c6c2e706e67" width="300"/>|
 |![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/res/HazelBG.jpg" width="300"/>|
-|![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/assets/github/readme_1.5.jpg" width="300"/>|
+|![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/.github/images/readme_1.1.jpg" width="300"/>|
 |![paxengine](logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/raw/master/res/screenshots/tiled.PNG" width="300"/>|
 |![acid](logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 |![rbfx](logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
