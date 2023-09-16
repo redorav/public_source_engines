@@ -59,8 +59,8 @@ Engines that are being developed generally by a single individual or at most a h
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 || LiteFX | https://github.com/crud89/LiteFX | |
 |![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | |
-|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | |
-|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
+|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
+|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/0130a9cb36257cd10f6958683a36f52a89c3bf43ac247556d8873cd01aa2df14/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
