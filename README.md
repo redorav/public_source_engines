@@ -56,6 +56,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
 || AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://github.com/mateeeeeee/Adria-DX12/raw/master/Screenshots/pathtracing1.png" width="300"/> |
+|| Hybrid | https://github.com/Angelo1211/HybridRenderingEngine | <img src="https://user-images.githubusercontent.com/11263073/49331372-01e09980-f59c-11e8-93af-c706c0571fb4.PNG" width="300"/> |
 |![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
