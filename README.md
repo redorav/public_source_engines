@@ -24,7 +24,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![playcanvas](logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 |![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
-|![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/fbafc5af4e68ce8909c1ed1dc998a799d61c67d3b017f11e25e8488a4f41803b/68747470733a2f2f657a656e67696e652e6e65742f70616765732f646f63732f656469746f722f6d656469612f657a456469746f722e6a7067" width="300" /> |
+|![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/49228851942d40349c15e089896e32be408429b7a1d25570312ecec62b9e3055/68747470733a2f2f657a656e67696e652e6e65742f70616765732f73616d706c65732f6d656469612f73686f77636173652d312e6a7067" width="300" /> |
 |![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://forum.defold.com/uploads/default/optimized/3X/5/b/5b6de6ac4a4445278bb372a5873e6f5da3976e1a_2_690x373.jpeg" width="300" /> |
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
 
@@ -33,8 +33,8 @@ Engines that are being developed generally by a single individual or at most a h
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
-|![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://camo.githubusercontent.com/a887115583ad60b1b8c5421078b374d0c02c43e8651835cda2e7f792d8f50aff/68747470733a2f2f747572616e737a6b696a2e66696c65732e776f726470726573732e636f6d2f323032302f30382f767867695f73706f6e7a615f736d616c6c2e706e67" width="300"/>|
-|![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/res/HazelBG.jpg" width="300"/>|
+|![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://i.ytimg.com/vi/OO6lZM4OU_Y/maxresdefault.jpg" width="300"/>|
+|![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/images/Hazel-2023.2-Screenshot_huda087e3f95812a96d2373c8ea820d639_197486_753x548_resize_q90_h2_box.webp" width="300"/>|
 |![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/.github/images/readme_1.1.jpg" width="300"/>|
 |![paxengine](logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/raw/master/res/screenshots/tiled.PNG" width="300"/>|
 |![acid](logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
@@ -46,17 +46,17 @@ Engines that are being developed generally by a single individual or at most a h
 |![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
 |![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | <img src="https://user-images.githubusercontent.com/12881812/210655312-1e0d25a1-e4bf-49d9-943b-f88f932f7e08.png" width="300"/> |
 |![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
-|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/0130a9cb36257cd10f6958683a36f52a89c3bf43ac247556d8873cd01aa2df14/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
+|![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/33d15fb9a2192ec7898b1a508235be618b2da30feb978ec961d57639479e77dc/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
 || Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/main/Resources/Screenshot09222.png" width="300"/>|
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
-|| PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/315c225e9ee3995f698a1f5d91e130048e8bf8d3f6c390a874ddb813b26e4712/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
+|| PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/27c3eed01afbf3fcf0f662c08d45e4a465f6a2388274890659b5d9adb4377c5f/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
 || Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
-|| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://github.com/mateeeeeee/Adria-DX12/raw/master/Screenshots/pathtracing1.png" width="300"/> |
+|| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://raw.githubusercontent.com/mateeeeeee/Adria-DX12/master/Adria/Saved/Screenshots/editor.png" width="300"/> |
 || Hybrid | https://github.com/Angelo1211/HybridRenderingEngine | <img src="https://user-images.githubusercontent.com/11263073/49331372-01e09980-f59c-11e8-93af-c706c0571fb4.PNG" width="300"/> |
 |![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
