@@ -15,6 +15,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![ue4](logos/ue4_64px.png)| Unreal Engine 4 | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
 |![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
 |![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
+|![the_forge](logos/the_forge_64px.png)| The Forge | https://github.com/ConfettiFX/The-Forge |<img src="https://github.com/ConfettiFX/The-Forge/raw/master/Screenshots/UT%2015a/vrs_original1.png" width="300"/>|
 |![torque](logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D |<img src="https://torque3d.readthedocs.io/en/latest/_images/WorldEditorIntroImage.jpg" width="300"/>|
 |![flax](logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
 |![panda3d](logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
