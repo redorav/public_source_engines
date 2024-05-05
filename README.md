@@ -15,7 +15,6 @@ Engines that are being developed by teams of individuals, generally are well est
 |![ue4](logos/ue4_64px.png)| Unreal Engine 4 | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
 |![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE_ReadMe |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
 |![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
-|![raylib](logos/raylib_64px.png)| Raylib | https://github.com/raysan5/raylib |<img src="https://raw.githubusercontent.com/raysan5/raylib/master/examples/models/models_first_person_maze.png" width="300"/>|
 |![the_forge](logos/the_forge_64px.png)| The Forge | https://github.com/ConfettiFX/The-Forge |<img src="https://github.com/ConfettiFX/The-Forge/raw/master/Screenshots/UT%2015a/vrs_original1.png" width="300"/>|
 |![torque](logos/torque_64px.png)| Torque 3D | https://github.com/GarageGames/Torque3D |<img src="https://torque3d.readthedocs.io/en/latest/_images/WorldEditorIntroImage.jpg" width="300"/>|
 |![flax](logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine |<img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
@@ -37,6 +36,7 @@ Engines that are being developed generally by a single individual or at most a h
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
+|![raylib](logos/raylib_64px.png)| Raylib | https://github.com/raysan5/raylib |<img src="https://raw.githubusercontent.com/raysan5/raylib/master/examples/models/models_first_person_maze.png" width="300"/>|
 |![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://i.ytimg.com/vi/OO6lZM4OU_Y/maxresdefault.jpg" width="300"/>|
 |![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/images/Hazel-2023.2-Screenshot_huda087e3f95812a96d2373c8ea820d639_197486_753x548_resize_q90_h2_box.webp" width="300"/>|
 |![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/.github/images/world_forest.png" width="300"/>|
