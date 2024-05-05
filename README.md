@@ -28,6 +28,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/49228851942d40349c15e089896e32be408429b7a1d25570312ecec62b9e3055/68747470733a2f2f657a656e67696e652e6e65742f70616765732f73616d706c65732f6d656469612f73686f77636173652d312e6a7067" width="300" /> |
 |![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://forum.defold.com/uploads/default/optimized/3X/5/b/5b6de6ac4a4445278bb372a5873e6f5da3976e1a_2_690x373.jpeg" width="300" /> |
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
+|![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/c1a5e396268d89a41818c5f6a033e70cef8a450d0f240b25ee322f6bbaa6fa85/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
