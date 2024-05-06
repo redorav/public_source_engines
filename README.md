@@ -12,7 +12,7 @@ Engines that are being developed by teams of individuals, generally are well est
 
 || Engine | Source | Screenshot |
 | --- | :---: | --- | --- |
-|![ue4](logos/ue4_64px.png)| Unreal Engine 4 | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
+|![ue4](logos/ue4_64px.png)| Unreal Engine | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
 |![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE_ReadMe |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
 |![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
 |![the_forge](logos/the_forge_64px.png)| The Forge | https://github.com/ConfettiFX/The-Forge |<img src="https://github.com/ConfettiFX/The-Forge/raw/master/Screenshots/UT%2015a/vrs_original1.png" width="300"/>|
