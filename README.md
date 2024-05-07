@@ -62,6 +62,7 @@ Engines that are being developed generally by a single individual or at most a h
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
 || AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://raw.githubusercontent.com/mateeeeeee/Adria-DX12/master/Adria/Saved/Screenshots/editor.png" width="300"/> |
 || Hybrid | https://github.com/Angelo1211/HybridRenderingEngine | <img src="https://user-images.githubusercontent.com/11263073/49331372-01e09980-f59c-11e8-93af-c706c0571fb4.PNG" width="300"/> |
+|| Equilibrium Engine | https://github.com/clibequilibrium/EquilibriumEngine | <img src="https://github.com/clibequilibrium/EquilibriumEngine/raw/master/docs/room.png" width="300"/> |
 |![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
