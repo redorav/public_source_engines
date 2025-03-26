@@ -40,7 +40,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![raylib](logos/raylib_64px.png)| Raylib | https://github.com/raysan5/raylib |<img src="https://raw.githubusercontent.com/raysan5/raylib/master/examples/models/models_first_person_maze.png" width="300"/>|
 |![wicked](logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://i.ytimg.com/vi/OO6lZM4OU_Y/maxresdefault.jpg" width="300"/>|
 |![hazel](logos/hazel_64px.png)| Hazel | https://github.com/TheCherno/Hazel |<img src="https://hazelengine.com/images/Hazel-2023.2-Screenshot_huda087e3f95812a96d2373c8ea820d639_197486_753x548_resize_q90_h2_box.webp" width="300"/>|
-|![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/.github/images/world_forest.png" width="300"/>|
+|![spartan](logos/spartan_64px.png)| Spartan Engine | https://github.com/PanosK92/SpartanEngine |<img src="https://raw.githubusercontent.com/PanosK92/SpartanEngine/master/.github/images/world_forest.jpg" width="300"/>|
 |![paxengine](logos/paxengine_64px.png)| Pax Engine | https://github.com/pmbittner/PaxEngine3 | <img src="https://github.com/pmbittner/PaxEngine3/raw/master/res/screenshots/tiled.PNG" width="300"/>|
 |![acid](logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 |![rbfx](logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
