@@ -59,17 +59,17 @@ Engines that are being developed generally by a single individual or at most a h
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/78c6e458fbff9d2a8f39583b5fd023852ec249f87db8be93b6e42ec2e14078dc/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
-|| Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
+|![crown](logos/crown_64px.png)| Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
-|| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://raw.githubusercontent.com/mateeeeeee/Adria-DX12/master/Adria/Saved/Screenshots/editor.png" width="300"/> |
+|![adriaDX12](logos/adria_64px.png)| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://raw.githubusercontent.com/mateeeeeee/Adria-DX12/master/Adria/Saved/Screenshots/editor.png" width="300"/> |
 || Hybrid | https://github.com/Angelo1211/HybridRenderingEngine | <img src="https://user-images.githubusercontent.com/11263073/49331372-01e09980-f59c-11e8-93af-c706c0571fb4.PNG" width="300"/> |
 || Equilibrium Engine | https://github.com/clibequilibrium/EquilibriumEngine | <img src="https://github.com/clibequilibrium/EquilibriumEngine/raw/master/docs/room.png" width="300"/> |
 |![koala](logos/koala_64px.png)| Koala Engine | https://github.com/phisko/kengine ||
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
-|| LiteFX | https://github.com/crud89/LiteFX | |
+|![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
