@@ -45,7 +45,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![acid](logos/acid_64px.png)|Acid Engine | https://github.com/EQMG/Acid | <img src="https://github.com/EQMG/Acid/raw/master/Documents/Screenshot3.png" width="300"/> |
 |![rbfx](logos/rbfx_64px.png)| rbfx | https://github.com/rokups/rbfx | <img src="https://user-images.githubusercontent.com/19151258/49943614-09376980-fef1-11e8-88fe-8c26fcf30a59.jpg" width="300"/> |
 |![nCine](logos/ncine_64px.png)| nCine | https://github.com/nCine/nCine | <img src="https://jugilus.github.io/Jugimap-ParallaxScrolling/jugimap_s6_w1300.jpg" width="300"/> |
-|![lina](logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/lina_ss.png" width="300"/> |
+|![lina](logos/lina_64px.png)| Lina Engine | https://github.com/inanevin/LinaEngine | <img src="https://github.com/inanevin/LinaEngine/blob/master/Extra/Images/LinaSS.png" width="300"/> |
 |![vq](logos/vq_64px.png)| VQE | https://github.com/vilbeyli/VQE |<img src="https://user-images.githubusercontent.com/700032/208126596-1e85472a-3889-4bbb-9829-9a4aa4059be5.png" width="300"/>|
 |![et](logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 |![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
