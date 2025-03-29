@@ -70,7 +70,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![halley](logos/halley_64px.png)| Halley Engine | https://github.com/amzeratul/halley ||
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
-|![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
+|<img src="logos/litefx_64px.png" alt="litefx" width="85" height="30"/>| LiteFX | https://github.com/crud89/LiteFX | |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
