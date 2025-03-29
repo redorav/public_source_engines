@@ -11,7 +11,7 @@ NB2: Notice I say public source, and not open or free or anything that suggests 
 Engines that are being developed by teams of individuals, generally are well established and have commercial products behind them.
 
 || Engine | Source | Screenshot |
-| --- | :---: | --- | --- |
+| ----- | :---: | --- | --- |
 |![ue4](logos/ue4_64px.png)| Unreal Engine | https://github.com/EpicGames/UnrealEngine |<img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
 |![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE_ReadMe |<img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
 |![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot |<img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
@@ -30,8 +30,9 @@ Engines that are being developed by teams of individuals, generally are well est
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
 |![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/04a3691cf04c94e9dedd9d5ad4a4cc662fc4d17319cf284469a1e16c32865767/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
 |![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
-|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
-|![iolite](logos/iolite_64px.png)| IOLITE Voxel Game Engine |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
+|<img src="logos/rangeengine_64px.png" alt="range" width="55" height="40"/>| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
+|<img src="logos/iolite_64px.png" alt="iolite" width="85" height="30"/>| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
+
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
