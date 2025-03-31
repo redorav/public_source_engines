@@ -30,7 +30,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
 |![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/04a3691cf04c94e9dedd9d5ad4a4cc662fc4d17319cf284469a1e16c32865767/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
 |![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
-|<img src="logos/rangeengine_64px.png" alt="range" width="55" height="40"/>| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
+|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
 |![iolite](logos/iolite_64px.png)| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
 
 
@@ -60,7 +60,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/78c6e458fbff9d2a8f39583b5fd023852ec249f87db8be93b6e42ec2e14078dc/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
-|<img src="logos/crown_64px.png" alt="crown" width="50" height="50"/>| Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
+|![crown](logos/crown_64px.png)| Crown Engine | https://github.com/crownengine/crown | <img src="https://raw.githubusercontent.com/dbartolini/crown/master/docs/shots/level-editor.png" width="300"/> |
 || Hyperion | https://github.com/krait-games/hyperion-engine | <img src="https://github.com/krait-games/hyperion-engine/blob/master/screenshots/screenshot1-ogl.PNG" width="300"/> |
 || VXR | https://github.com/avilapa/vxr | <img src="https://github.com/avilapa/vxr/blob/media/06-Procedural.png" width="300"/> |
 |![adriaDX12](logos/adria_64px.png)| AdriaDX12 | https://github.com/mateeeeeee/Adria-DX12 | <img src="https://raw.githubusercontent.com/mateeeeeee/Adria-DX12/master/Adria/Saved/Screenshots/editor.png" width="300"/> |
