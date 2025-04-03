@@ -71,6 +71,11 @@ Engines that are being developed generally by a single individual or at most a h
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 |![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
+||Jle Engine | https://github.com/Mormert/jle?tab=readme-ov-file | <img src="https://github.com/Mormert/jle?tab=readme-ov-file" width="300">|
+||EDBR Engine | https://github.com/eliasdaler/edbr | <img src="https://raw.githubusercontent.com/eliasdaler/edbr/refs/heads/master/screenshots/10_dev_tools.png" width="300">|
+||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://raw.githubusercontent.com/giordi91/SirEngineThe3rd/refs/heads/develop/docs/images/03_PBR.png" width="300">|
+||Arc Engine | https://github.com/GloriousPtr/ArcGameEngine ||
+
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
@@ -84,3 +89,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
 || Veldrid | https://github.com/mellinoe/veldrid |
+|![embree](logos/embree_64px.png)|Intel Embree |https://github.com/RenderKit/embree |
