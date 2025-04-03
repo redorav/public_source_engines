@@ -33,6 +33,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
 |![iolite](logos/iolite_64px.png)| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
 
+
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
 
@@ -70,7 +71,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 |![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
-|![kohi-icon](logos/kohi_64px.png)| Kohi Engine | https://github.com/travisvroman/kohi |<img src="https://github.com/user-attachments/assets/b2bc6559-c01b-45ba-a39f-905f8429471a" width="300" />|
+
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
@@ -84,3 +85,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
 || Veldrid | https://github.com/mellinoe/veldrid |
+|![embree](logos/embree_64px.png)|Intel Embree |https://github.com/RenderKit/embree |
