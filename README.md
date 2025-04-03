@@ -21,7 +21,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![panda3d](logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d |<img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
 |![armory3d](logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory |<img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
 |![neoaxis](logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine |<img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
-|![urho3d](logos/urho3d_64px.png)| Urho3D | https://github.com/urho3d/Urho3D |<img src="https://download.tuxfamily.org/sdtraces/BottinHTML/Bottin_T-Z_files/732a3f1974407430d36ebe3a713bf91e.png" width="300"/>|
+|![u3d](logos/u3d_64px.png)| U3D | https://github.com/u3d-community/U3D |<img src="https://user-images.githubusercontent.com/467729/204386186-fbc2b8f8-cff8-4549-9fbc-5a6d35869a08.png" width="300"/>|
 |![playcanvas](logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
 |![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
@@ -71,13 +71,6 @@ Engines that are being developed generally by a single individual or at most a h
 |![explosion](logos/explosion_64px.png)| Explosion Engine | https://github.com/ExplosionEngine/Explosion ||
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 |![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
-||Jle Engine | https://github.com/Mormert/jle?tab=readme-ov-file | <img src="https://camo.githubusercontent.com/b7f8e7c8aef7b68fb166f3410c3801c760ae408fa5a46c9445d420a303711eb8/68747470733a2f2f6d6f726d6572742e636f6d2f6a6c652d6d656469612f6a6c6553706f6e7a612e706e67" width="300">|
-||EDBR Engine | https://github.com/eliasdaler/edbr | <img src="https://raw.githubusercontent.com/eliasdaler/edbr/refs/heads/master/screenshots/10_dev_tools.png" width="300">|
-||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://raw.githubusercontent.com/giordi91/SirEngineThe3rd/refs/heads/develop/docs/images/03_PBR.png" width="300">|
-||Arc Engine | https://github.com/GloriousPtr/ArcGameEngine ||
-|![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
-||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
-||IDK Engine| https://github.com/BoyBaykiller/IDKEngine?tab=readme-ov-file | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
 
 
 ## Rendering Engines
