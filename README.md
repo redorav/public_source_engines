@@ -71,7 +71,7 @@ Engines that are being developed generally by a single individual or at most a h
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 |![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
 |![kohi-icon](logos/kohi_64px.png)| Kohi Engine | https://github.com/travisvroman/kohi |<img src="https://github.com/user-attachments/assets/b2bc6559-c01b-45ba-a39f-905f8429471a" width="300" />|
-||Jle Engine | https://github.com/Mormert/jle?tab=readme-ov-file | <img src="https://github.com/Mormert/jle?tab=readme-ov-file" width="300">|
+||Jle Engine | https://github.com/Mormert/jle?tab=readme-ov-file | <img src="https://camo.githubusercontent.com/b7f8e7c8aef7b68fb166f3410c3801c760ae408fa5a46c9445d420a303711eb8/68747470733a2f2f6d6f726d6572742e636f6d2f6a6c652d6d656469612f6a6c6553706f6e7a612e706e67" width="300">|
 ||EDBR Engine | https://github.com/eliasdaler/edbr | <img src="https://raw.githubusercontent.com/eliasdaler/edbr/refs/heads/master/screenshots/10_dev_tools.png" width="300">|
 ||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://raw.githubusercontent.com/giordi91/SirEngineThe3rd/refs/heads/develop/docs/images/03_PBR.png" width="300">|
 ||Arc Engine | https://github.com/GloriousPtr/ArcGameEngine ||
