@@ -71,6 +71,13 @@ Engines that are being developed generally by a single individual or at most a h
 || Banshee Engine | https://github.com/ValtoGameEngines/Banshee-Engine ||
 |![litefx](logos/litefx_64px.png)| LiteFX | https://github.com/crud89/LiteFX | |
 |![kohi-icon](logos/kohi_64px.png)| Kohi Engine | https://github.com/travisvroman/kohi |<img src="https://github.com/user-attachments/assets/b2bc6559-c01b-45ba-a39f-905f8429471a" width="300" />|
+||Jle Engine | https://github.com/Mormert/jle?tab=readme-ov-file | <img src="https://github.com/Mormert/jle?tab=readme-ov-file" width="300">|
+||EDBR Engine | https://github.com/eliasdaler/edbr | <img src="https://raw.githubusercontent.com/eliasdaler/edbr/refs/heads/master/screenshots/10_dev_tools.png" width="300">|
+||Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://raw.githubusercontent.com/giordi91/SirEngineThe3rd/refs/heads/develop/docs/images/03_PBR.png" width="300">|
+||Arc Engine | https://github.com/GloriousPtr/ArcGameEngine ||
+|![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
+||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
+||IDK Engine| https://github.com/BoyBaykiller/IDKEngine?tab=readme-ov-file | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
@@ -84,3 +91,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![magnum](https://github.com/redorav/public_source_engines/blob/master/logos/magnum_64px.png)| Magnum | https://github.com/mosra/magnum |
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
 || Veldrid | https://github.com/mellinoe/veldrid |
+|![embree](logos/embree_64px.png)|Intel Embree |https://github.com/RenderKit/embree |
