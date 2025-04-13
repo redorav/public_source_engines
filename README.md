@@ -77,7 +77,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
 ||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
 ||IDK Engine| https://github.com/BoyBaykiller/IDKEngine | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
-|![Cradle](https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/image.png)|Cradle| https://github.com/nardo/cradle | <img src="https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/New%20Project.webp" width="300"> |
+|![Cradle](https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/New%20Project.png)|Cradle| https://github.com/nardo/cradle | <img src="https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/New%20Project.webp" width="300"> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
