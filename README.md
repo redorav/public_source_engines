@@ -77,6 +77,9 @@ Engines that are being developed generally by a single individual or at most a h
 |![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
 ||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
 ||IDK Engine| https://github.com/BoyBaykiller/IDKEngine | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
+||Castle Engine| https://github.com/castle-engine/castle-engine ||
+||Trial Engine| https://github.com/Shirakumo/trial ||
+||Mach Engine| https://github.com/hexops/mach ||
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
