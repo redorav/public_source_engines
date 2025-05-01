@@ -77,9 +77,9 @@ Engines that are being developed generally by a single individual or at most a h
 |![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
 ||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
 ||IDK Engine| https://github.com/BoyBaykiller/IDKEngine | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
-||Castle Engine| https://github.com/castle-engine/castle-engine ||
-||Trial Engine| https://github.com/Shirakumo/trial ||
-||Mach Engine| https://github.com/hexops/mach ||
+|<img src="https://castle-engine.io/images/castle_game_engine_icon.svg" width="64">|Castle Engine| https://github.com/castle-engine/castle-engine |<img src="https://castle-engine.io/images/not_resized_original/combined_cge_logo_game.png" width="300">|
+|<img src="https://github.com/Shirakumo/trial/raw/refs/heads/master/docs/images/logos/trial%20badge.svg" width="64">|Trial Engine| https://github.com/Shirakumo/trial |<img src="https://github.com/Shirakumo/trial/blob/master/docs/images/lighting-shadows.png" width="300">|
+|<img src="https://machengine.org/assets/media/mach/logo_light.svg" width="64">|Mach Engine| https://github.com/hexops/mach |<img src="https://user-images.githubusercontent.com/3173176/173177646-a3f0982c-f07b-496f-947b-265bdc71ece9.gif" alt="textured-cube" width="300"></img>|
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
