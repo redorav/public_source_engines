@@ -79,7 +79,7 @@ Engines that are being developed generally by a single individual or at most a h
 ||IDK Engine| https://github.com/BoyBaykiller/IDKEngine | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
 |![castle](logos/castle_64px.png)| Castle Engine | https://github.com/castle-engine/castle-engine |<img src="https://castle-engine.io/images/not_resized_original/combined_cge_logo_game.png" width="300">|
 |![trial](logos/trial_64px.png)| Trial Engine | https://github.com/Shirakumo/trial |<img src="https://github.com/Shirakumo/trial/blob/master/docs/images/lighting-shadows.png" width="300">|
-|![mach](logos/mach_64px.png)| Mach Engine | https://github.com/hexops/mach |<img src="https://user-images.githubusercontent.com/3173176/173177646-a3f0982c-f07b-496f-947b-265bdc71ece9.gif" alt="textured-cube" width="300"></img>|
+|![mach](logos/mach_64px.png)| Mach Engine | https://github.com/hexops/mach ||
 |![love](logos/love_64px.png)| LÖVE | https://github.com/love2d/love | |
 
 ## Rendering Engines
