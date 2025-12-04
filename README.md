@@ -26,7 +26,7 @@ Engines that are being developed by teams of individuals, generally are well est
 |![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
 |![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
 |![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/de9ee5dd4bedee4ce011317d2b4baaa17189cf7b60bee9493aadec8d207738e7/68747470733a2f2f657a656e67696e652e6e65742f70616765732f73616d706c65732f6d656469612f73686f77636173652d312e6a7067" width="300" /> |
-|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://th.bing.com/th/id/R.7ba39d145bb7c6f2067e0c8478730095?rik=nwDxJvRVWGIYCA&pid=ImgRaw&r=0" width="300" /> |
+|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://defold-forum-bucket.nbg1.your-objectstorage.com/optimized/1X/b029fa2b66d8b5f29e25aa1f7280814704a9b252_2_1035x646.jpg" width="300" /> |
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
 |![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/04a3691cf04c94e9dedd9d5ad4a4cc662fc4d17319cf284469a1e16c32865767/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
 |![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
@@ -77,7 +77,11 @@ Engines that are being developed generally by a single individual or at most a h
 |![rootex](logos/rootex_64px.png)|Rootex Engine| https://github.com/sdslabs/Rootex | <img src="https://raw.githubusercontent.com/sdslabs/Rootex/refs/heads/dev/rootex/assets/editor.png" width="300">|
 ||Bamboo Engine| https://github.com/Code-Guy/Bamboo | <img src="https://raw.githubusercontent.com/Code-Guy/Bamboo/refs/heads/master/snapshot/sponza.png" width="300">|
 ||IDK Engine| https://github.com/BoyBaykiller/IDKEngine | <img src="https://raw.githubusercontent.com/BoyBaykiller/IDKEngine/refs/heads/master/Screenshots/Showcase/PTIntelSponza.png" width="300">|
-|![Cradle](logos/cradle_64px.png)|Cradle| https://github.com/nardo/cradle | <img src="https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/New%20Project.webp" width="300"> |
+|![castle](logos/castle_64px.png)| Castle Engine | https://github.com/castle-engine/castle-engine |<img src="https://castle-engine.io/images/not_resized_original/combined_cge_logo_game.png" width="300">|
+|![trial](logos/trial_64px.png)| Trial Engine | https://github.com/Shirakumo/trial |<img src="https://github.com/Shirakumo/trial/blob/master/docs/images/lighting-shadows.png" width="300">|
+|![mach](logos/mach_64px.png)| Mach Engine | https://github.com/hexops/mach ||
+|![love](logos/love_64px.png)| LÖVE | https://github.com/love2d/love | |
+|![Cradle](logos/cradle_64px.png)| Cradle | https://github.com/nardo/cradle | <img src="https://raw.githubusercontent.com/gnat/cradle_assets/refs/heads/main/New%20Project.webp" width="300"> |
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
