@@ -81,6 +81,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![trial](logos/trial_64px.png)| Trial Engine | https://github.com/Shirakumo/trial |<img src="https://github.com/Shirakumo/trial/blob/master/docs/images/lighting-shadows.png" width="300">|
 |![mach](logos/mach_64px.png)| Mach Engine | https://github.com/hexops/mach ||
 |![love](logos/love_64px.png)| LÖVE | https://github.com/love2d/love | |
+|![Infernux](logos/infernux_64px.png) | Infernux | https://github.com/ChenlizheMe/Infernux | <img src="https://infernux-engine.com/assets/demo-0.3.4.avif" width="300">|
 
 ## Rendering Engines
 These are only the graphics part of an engine but mature enough and well developed that their code is worthwhile to learn from.
