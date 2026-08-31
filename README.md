@@ -30,8 +30,9 @@ Engines that are being developed by teams of individuals, generally are well est
 |![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
 |![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/2d4f6b817851949ea61c778c1b59e5a9354a56b8cb755871a9d083f78ecf4381/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
 |![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
-|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
+|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.org/img/sliders/materials.PNG" width="300" /> |
 |![iolite](logos/iolite_64px.png)| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
+|![redot](logos/redot_64px.png)| Redot | https://github.com/Redot-Engine/redot-engine | <img src="https://raw.githubusercontent.com/Redot-Engine/redot-engine/refs/heads/master/screenshot.jpg" width="300" /> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
@@ -51,7 +52,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![et](logos/et_64px.png)| ET Engine | https://github.com/Illation/ETEngine | <img src="https://github.com/Illation/ETEngine/raw/master/screenshots/Editor.jpg" width="300"/> |
 |![overload](logos/overload_64px.png)| Overload | https://github.com/adriengivry/Overload | <img src="https://user-images.githubusercontent.com/33324216/94352908-fd228a80-0038-11eb-849a-c076bde4c7c6.PNG" width="300"/> |
 |![mocha](logos/mocha_64px.png)| Mocha | https://github.com/mocha-engine/mocha | <img src="https://user-images.githubusercontent.com/12881812/210655312-1e0d25a1-e4bf-49d9-943b-f88f932f7e08.png" width="300"/> |
-|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://github.com/BobbyAnguelov/Esoterica/blob/main/Docs/EE_Editor.png" width="300"/> |
+|![esoterica](logos/esoterica_64px.png)| Esoterica | https://github.com/BobbyAnguelov/Esoterica | <img src="https://raw.githubusercontent.com/BobbyAnguelov/Esoterica/refs/heads/main/Docs/img/EE_Ragdoll.png" width="300"/> |
 |![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/f44a896ec50a020d2f66689eda27ae2d983c4aa1f60a10f0a2ae4b352c73b62d/68747470733a2f2f692e696d6775722e636f6d2f6e5357425355422e706e67" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
